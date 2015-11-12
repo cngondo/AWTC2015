@@ -19,3 +19,9 @@
   - Colors
   - Font type and Size
   - Dynamic aspects of the site: Hover effects, animations
+
+### Tools over superheroes
+  - Text Editor: with multiple plugins that will help you in the coding process
+  - Node Package Manager
+  - Bower
+  
