@@ -27,3 +27,7 @@
   - pure css
   - Material Design Lite
   - Semantic UI
+
+### Sites to learn more about web designing
+(W3 Schools)[http://www.w3schools.com/]
+(Codeacademy)[https://www.codecademy.com/learn/web]
