@@ -2,7 +2,7 @@
 
 ### Frameworks
   - Twitter Bootstrap
-  - materialize css
+  - Materialize css
   - foundation
   - pure css
   - Material Design Lite
